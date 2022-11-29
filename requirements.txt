@@ -1,0 +1,9 @@
+# Testing library
+# License: MIT
+# Upstream url: https://github.com/pytest-dev/pytest
+pytest==7.2.0
+
+# Thin-wrapper around the mock package for easier use with py.test
+# License: MIT
+# Upstream url: https://github.com/pytest-dev/pytest-mock/
+pytest-mock==3.10.0
