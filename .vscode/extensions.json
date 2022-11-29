@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "wayou.vscode-todo-highlight",
+    "PKief.material-icon-theme",
+    "EditorConfig.EditorConfig",
+    "shakram02.bash-beautify",
+    "dracula-theme.theme-dracula"
+  ]
+}
