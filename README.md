@@ -16,6 +16,8 @@ Esse projeto foi criado para facilitar o encontro e notificação de vagas em te
 
 Veja sobre como contribuir no arquivo [CONTRIBUTING.md](CONTRIBUTING.md)
 
+Veja as tarefas do backlog e o que está em andamento via GitHub Projects: https://github.com/users/gabrielmartinigit/projects/3 
+
 ## Pessoas que já contribuiram
 
 <a href="https://github.com/gabrielmartinigit/brasil-vagastech/graphs/contributors">
