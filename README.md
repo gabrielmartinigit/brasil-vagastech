@@ -29,6 +29,7 @@ Veja sobre como contribuir no arquivo [CONTRIBUTING.md](CONTRIBUTING.md)
 - [Escola da Nuvem (EdN)](https://escoladanuvem.org/): OSC que prepara estudantes para carreiras na nuvem e os conecta a empregadores em potencial;
 - [TabNews](https://github.com/filipedeschamps/tabnews.com.br): Conteúdos para quem trabalha com Programação e Tecnologia;
 - [Brasil API](https://github.com/BrasilAPI/BrasilAPI/): Acesso via APIs para recursos como CEP, DDD, CNPJ, IBGE, Taxas, etc.;
+- [Brasil.IO](https://github.com/turicas/brasil.io): Dados abertos sobre o Brasil de forma organizada, legível por máquina e usando padrões abertos;
 
 ## Licença
 
