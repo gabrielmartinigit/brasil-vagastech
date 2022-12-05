@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>
-    <strong>Resumo de vagas para brasileiras e brasileiros que querem ou já trabalham com tecnologia</strong>
+    <strong>Resumo de vagas para brasileiras e brasileiros que querem trabalhar ou já trabalham com tecnologia</strong>
   </p>
 </div>
 
